@@ -1,0 +1,9 @@
+c:\users\kosty\documents\visual studio 2013\Projects\TaskList\TaskList\bin\Debug\TaskList.exe.config
+C:\Users\kosty\Documents\Visual Studio 2013\Projects\TaskList\TaskList\bin\Debug\TaskList.exe
+C:\Users\kosty\Documents\Visual Studio 2013\Projects\TaskList\TaskList\bin\Debug\TaskList.pdb
+C:\Users\kosty\Documents\Visual Studio 2013\Projects\TaskList\TaskList\obj\Debug\TaskList.csprojResolveAssemblyReference.cache
+C:\Users\kosty\Documents\Visual Studio 2013\Projects\TaskList\TaskList\obj\Debug\TaskList.Form1.resources
+C:\Users\kosty\Documents\Visual Studio 2013\Projects\TaskList\TaskList\obj\Debug\TaskList.Properties.Resources.resources
+C:\Users\kosty\Documents\Visual Studio 2013\Projects\TaskList\TaskList\obj\Debug\TaskList.csproj.GenerateResource.Cache
+C:\Users\kosty\Documents\Visual Studio 2013\Projects\TaskList\TaskList\obj\Debug\TaskList.exe
+C:\Users\kosty\Documents\Visual Studio 2013\Projects\TaskList\TaskList\obj\Debug\TaskList.pdb
