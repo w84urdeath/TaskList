@@ -12,13 +12,15 @@ namespace TaskList
         /// Главная точка входа для приложения.
         /// </summary>
         [STAThread]
+
+        
         static void Main()
         {
-          
+            //List<Task> taskList = new List<Task>();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-            List<Task> taskList = new List<Task>();
+            
             
         }
     }
