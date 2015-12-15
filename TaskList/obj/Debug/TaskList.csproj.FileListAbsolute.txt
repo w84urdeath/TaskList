@@ -17,3 +17,6 @@ E:\TaskList\TaskList\obj\Debug\TaskList.Form1.resources
 E:\TaskList\TaskList\obj\Debug\TaskList.Form2.resources
 E:\TaskList\TaskList\obj\Debug\TaskList.Properties.Resources.resources
 E:\TaskList\TaskList\obj\Debug\TaskList.csproj.GenerateResource.Cache
+E:\VS\TaskList\TaskList\bin\Debug\TaskList.exe.config
+E:\VS\TaskList\TaskList\obj\Debug\TaskList.exe
+E:\VS\TaskList\TaskList\obj\Debug\TaskList.pdb
