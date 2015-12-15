@@ -7,3 +7,13 @@ C:\Users\kosty\Documents\Visual Studio 2013\Projects\TaskList\TaskList\obj\Debug
 C:\Users\kosty\Documents\Visual Studio 2013\Projects\TaskList\TaskList\obj\Debug\TaskList.csproj.GenerateResource.Cache
 C:\Users\kosty\Documents\Visual Studio 2013\Projects\TaskList\TaskList\obj\Debug\TaskList.exe
 C:\Users\kosty\Documents\Visual Studio 2013\Projects\TaskList\TaskList\obj\Debug\TaskList.pdb
+E:\TaskList\TaskList\bin\Debug\TaskList.exe.config
+E:\TaskList\TaskList\obj\Debug\TaskList.exe
+E:\TaskList\TaskList\obj\Debug\TaskList.pdb
+E:\TaskList\TaskList\bin\Debug\TaskList.exe
+E:\TaskList\TaskList\bin\Debug\TaskList.pdb
+E:\TaskList\TaskList\obj\Debug\TaskList.csprojResolveAssemblyReference.cache
+E:\TaskList\TaskList\obj\Debug\TaskList.Form1.resources
+E:\TaskList\TaskList\obj\Debug\TaskList.Form2.resources
+E:\TaskList\TaskList\obj\Debug\TaskList.Properties.Resources.resources
+E:\TaskList\TaskList\obj\Debug\TaskList.csproj.GenerateResource.Cache
