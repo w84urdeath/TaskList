@@ -8,6 +8,7 @@ namespace TaskList
 {
     public class Task
     {
+        
         public string nameTask;//{get; set;}
         public string textTask; //{ get; set; }
         public string dateTask;//{get;set;}

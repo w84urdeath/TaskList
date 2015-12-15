@@ -16,5 +16,21 @@ namespace TaskList
         {
             InitializeComponent();
         }
+
+        private void yes_button_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text == null) yes_button.Text = "Пусто(";
+
+            else
+            {
+                Task task = new Task(textBox1.Text);
+               
+            }
+        }
+        private void labelF2_Click(object sender, EventArgs a)
+        {
+            
+        }
+
     }
 }

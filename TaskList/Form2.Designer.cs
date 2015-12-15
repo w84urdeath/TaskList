@@ -42,6 +42,7 @@
             labelF2.Size = new System.Drawing.Size(194, 14);
             labelF2.TabIndex = 0;
             labelF2.Text = "Введите название новой заметки";
+            labelF2.Click += new System.EventHandler(this.labelF2_Click);
             // 
             // textBox1
             // 
@@ -54,12 +55,13 @@
             // 
             // yes_button
             // 
-            this.yes_button.Location = new System.Drawing.Point(128, 53);
+            this.yes_button.Location = new System.Drawing.Point(136, 53);
             this.yes_button.Name = "yes_button";
             this.yes_button.Size = new System.Drawing.Size(75, 23);
             this.yes_button.TabIndex = 2;
             this.yes_button.Text = "Ага";
             this.yes_button.UseVisualStyleBackColor = true;
+            this.yes_button.Click += new System.EventHandler(this.yes_button_Click);
             // 
             // Form2
             // 
