@@ -23,7 +23,7 @@ namespace TaskList
 
             else
             {
-                Task task = new Task(textBox1.Text);
+                //Task task = new Task(textBox1.Text);
                
             }
         }

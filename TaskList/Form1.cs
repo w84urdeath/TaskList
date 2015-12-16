@@ -13,7 +13,7 @@ namespace TaskList
 
     public partial class Form1 : Form
     {
-        List<Task> Coll = new List<Task>;
+        List<Task> Coll = new List<Task>();
         public Form1()
         {
             InitializeComponent();

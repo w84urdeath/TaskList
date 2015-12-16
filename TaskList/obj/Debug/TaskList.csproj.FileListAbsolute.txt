@@ -20,3 +20,13 @@ E:\TaskList\TaskList\obj\Debug\TaskList.csproj.GenerateResource.Cache
 E:\VS\TaskList\TaskList\bin\Debug\TaskList.exe.config
 E:\VS\TaskList\TaskList\obj\Debug\TaskList.exe
 E:\VS\TaskList\TaskList\obj\Debug\TaskList.pdb
+D:\TaskList\TaskList\bin\Debug\TaskList.exe.config
+D:\TaskList\TaskList\obj\Debug\TaskList.exe
+D:\TaskList\TaskList\obj\Debug\TaskList.pdb
+D:\TaskList\TaskList\bin\Debug\TaskList.exe
+D:\TaskList\TaskList\bin\Debug\TaskList.pdb
+D:\TaskList\TaskList\obj\Debug\TaskList.csprojResolveAssemblyReference.cache
+D:\TaskList\TaskList\obj\Debug\TaskList.Form1.resources
+D:\TaskList\TaskList\obj\Debug\TaskList.Form2.resources
+D:\TaskList\TaskList\obj\Debug\TaskList.Properties.Resources.resources
+D:\TaskList\TaskList\obj\Debug\TaskList.csproj.GenerateResource.Cache
